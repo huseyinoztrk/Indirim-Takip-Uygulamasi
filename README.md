@@ -1,1 +1,1 @@
-# -ndirim-Takip-Uygulamas-
+# Indirim-Takip-Uygulamasi
